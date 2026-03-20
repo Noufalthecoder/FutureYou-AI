@@ -91,7 +91,7 @@ A simple 0–100 score for financial wellness.
      Logic	Custom Financial Engine
 
 ## ⚡ Quick Start
-git clone https://github.com/your-username/futureyou-ai
+git clone https://github.com/Noufalthecoder/FutureYou-AI
 cd futureyou-ai
 npm install
 npm run dev
