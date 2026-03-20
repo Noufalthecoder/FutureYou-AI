@@ -5,16 +5,16 @@
 🚀 Live Demo --> https://wealth-vision-ai.base44.app/
 
 
-# 🎬 Watch Demo Video
+##  🎬 Watch Demo Video
  https://youtu.be/K7EKul2rros?si=2KD8pV2ZJvLIAZPi
 
-##📸 Previewm--> https://ibb.co/9HNsH8PT
+## 📸 Preview--> https://ibb.co/9HNsH8PT
 
-##🧠 Overview
+## 🧠 Overview
 
 FutureYou AI is an AI-powered financial intelligence platform that transforms financial planning into a visual, interactive life experience.
 
-##Instead of charts and numbers, it shows:
+## Instead of charts and numbers, it shows:
 
 your future life 👤
 
@@ -24,7 +24,7 @@ your consequences 💣
 
 👉 It helps users feel their future — and act on it.
 
-##🎯 Problem
+## 🎯 Problem
 
 95% of people don’t have a financial plan
 
@@ -34,7 +34,7 @@ Users cannot visualize long-term impact
 
 Decisions are made blindly → regret later
 
-##💡 Solution
+## 💡 Solution
 
 FutureYou AI converts financial data into a real-life simulation:
 
@@ -43,7 +43,7 @@ FutureYou AI converts financial data into a real-life simulation:
 ✔ AI-driven insights
 ✔ Emotional visualization
 
-##✨ Features
+## ✨ Features
 🔮 Financial Time Machine
 
 Simulates future wealth using compound growth models.
@@ -56,17 +56,17 @@ Emotional avatar (happy / neutral / stressed)
 
 Life assets (house 🏠, car 🚗)
 
-##🔀 What-If Simulator
+## 🔀 What-If Simulator
 
 Change your investment → instantly see future changes.
 
-##🎤 AI Twin (Future Self)
+## 🎤 AI Twin (Future Self)
 
 AI speaks as your future version:
 
 “I am you at 50… you should have started earlier.”
 
-##💣 Regret Simulator
+## 💣 Regret Simulator
 
 Converts financial outcomes into life consequences:
 
@@ -76,11 +76,11 @@ Weak retirement
 
 Missed opportunities
 
-##📊 Money Health Score
+## 📊 Money Health Score
 
 A simple 0–100 score for financial wellness.
 
-## System Flow
+##  System Flow
 🧱 Tech Stack
      Layer	Technology
      Frontend	React / Base44
@@ -90,13 +90,13 @@ A simple 0–100 score for financial wellness.
      Voice	Web Speech API
      Logic	Custom Financial Engine
 
-##⚡ Quick Start
+## ⚡ Quick Start
 git clone https://github.com/your-username/futureyou-ai
 cd futureyou-ai
 npm install
 npm run dev
 
-#🎬 Demo Flow
+# 🎬 Demo Flow
 
 Enter financial details
 
@@ -116,7 +116,7 @@ See life consequences
 ✔ Not just AI → Emotional AI
 ✔ Not just UI → Decision system
 
-##🔥 Innovation
+## 🔥 Innovation
 
 AI + Behavioral Psychology
 
@@ -124,7 +124,7 @@ Future Self Communication
 
 Financial Visualization System
 
-##📈 Impact
+## 📈 Impact
 
 Improves financial awareness
 
@@ -132,7 +132,7 @@ Encourages early investment
 
 Converts insight → action
 
-##🚀 Future Scope
+## 🚀 Future Scope
 
 📄 Salary slip parsing
 
@@ -142,7 +142,7 @@ Converts insight → action
 
 📱 Mobile app
 
-##👨‍💻 Team
+## 👨‍💻 Team
 
 Mohammed Noufal V
 Tarunika B
